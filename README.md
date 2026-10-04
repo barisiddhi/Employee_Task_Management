@@ -92,6 +92,14 @@ Employee_Task_Management
 
 ![Admin Dashboard](assets/screenshots/admin-settings.jpg)
 
+### Manage Users
+
+![Manage Users](assets/screenshots/manage-users.jpg)
+
+### User Task
+
+![User Task](assets/screenshots/user-task.jpg)
+
 ### Admin Notifications
 
 ![Admin Notifications](assets/screenshots/admin-notifications.jpg)
@@ -108,9 +116,7 @@ Employee_Task_Management
 
 ![Employee Profile](assets/screenshots/employee-profile.jpg)
 
-### Manage Users
 
-![Manage Users](assets/screenshots/manage-users.jpg)
 
 ### User Dashboard
 
@@ -120,9 +126,7 @@ Employee_Task_Management
 
 ![User Task Assignment](assets/screenshots/user-task-assign.jpg)
 
-### User Task
 
-![User Task](assets/screenshots/user-task.jpg)
 
 ## Database
 
