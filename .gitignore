@@ -1,0 +1,16 @@
+# Database / configuration
+.env
+config.php
+
+# XAMPP uploads
+assets/uploads/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
